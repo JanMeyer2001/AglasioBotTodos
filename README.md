@@ -10,6 +10,11 @@ Bot to manage TODOs for the Aglasio Discord Server
         - [ ] Vocals
         - [ ] Additional
     - [ ] Add creation of mixing instructions
+    - [ ] Add editing of instruments
+        - [ ] Drums
+        - [ ] Bass
+        - [ ] Guitar
+        - [ ] Vocals
 - [ ] Command for calling the function to create templates
 - [ ] Manage TODOs
     - [ ] Setup default values
